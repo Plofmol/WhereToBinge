@@ -185,7 +185,9 @@ If we need something else and they are at school we ask them directly.
 # Reflection
 
  ## What went good?
-
+ explanation
+ 
  ## What will I do different next time?
+ explanation
 
 # Final words
