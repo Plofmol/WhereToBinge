@@ -50,10 +50,27 @@
  - [Final words](#final-words) 
 
 # Preface
+In this document I want to show my semester 3 progress on what I have learned and what I should be able to do to fulfill the minimum requirements this semester. 
 
 # Products
+There are several products I made, where I will show what product shows what learning outcome is mastered.
+The products i made are:
 
-# Where to binge
+## Where to binge 
+this is my front to back project which is the main project.
+
+## Where to binge structure
+this is the first setup and my test on learning how to code with frontend and to put the entire project from front to back in one.
+
+## Orm test
+Here i wanted to learn how to make and orm, and implement it into my main project. Seeing as this is part of a learning outcome i felt this was nice to include in the document.
+
+## Front end test
+Considering i never worked with javascript, react or even made or frontend i wanted to playfully learn how to learn and manipulate the front end to get what i want.
+Here you can trace how i slowly learned how to work with the front end. 
+
+## GroopySwoopy (gp)
+This is our groupsproject made with the students from finland(Oamk).
 
 # Learning Outcome 1: Web Application (IP)
 
@@ -64,8 +81,6 @@ Clarification:
 **User friendly**: You apply basic User experience testing and development techniques.
 
 **Full-stack**: You design and build a full stack application using commonly accepted front end (JavaScript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
-
-## Clarification
 
 # Learning Outcome 2: Software Quality
 *You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.*
