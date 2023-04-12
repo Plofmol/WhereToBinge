@@ -127,7 +127,9 @@ Clarification:
 **Agile** method: You are aware of most popular agile methods and their underlying agile principles. You are able to implement the process of your software project according to a chosen methodology.
 
 ## Scrum
-why scrum
+what is scrum?
+
+why scrum?
 
 ## Waterfall
 what is waterfall?
@@ -162,9 +164,15 @@ Clarification:
 **Professional manner**: You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team. You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions. You choose and substantiate solutions for a given problem.
 
 ## Team Communication
-what we use:
+**what we use:
+We have an elobate discord server in which we put everything we need in.
+We have seperate textchannels for all documents, meetings, meetingreports, links, announcements, schedule and even a seperate channel per team.
+We also have 4 voice channels divided in a general chat roon, 2 chat rooms, 1 per team and a meeting room.
 
 ## Communication with the Stakeholders
+For communicating with out stakeholders we invite them through email to join a teams meeting for the sprint delivery.
+Idividual questions online also go through teams.
+If we need something else and they are at school we ask them directly.
 
 ## What are the others doing?
 
@@ -176,8 +184,8 @@ what we use:
 
 # Reflection
 
-## What went good?
+ ## What went good?
 
-## What will I do different next time?
+ ## What will I do different next time?
 
 # Final words
