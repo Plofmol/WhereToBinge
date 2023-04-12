@@ -1,11 +1,10 @@
 # Portfolio Semester 3 Software
 
 ## Table of contents
- - [Preface](#preface)
- - [Products](#products)
-   - [Where to binge](#Where-to-binge)
+       - [Preface](#preface)
+       - [Products](#products)
+     - [Where to binge](#Where-to-binge)
      - [Learning Outcome 1: Web Application (IP)](#learning-outcome-1-web-application-ip)
-       - 
      - [Learning Outcome 2: Software Quality](#learning-outcome-2-software-quality)
        - [Testing](#testing)
        - [Static Code Analysis](#static-code-analysis) 
