@@ -19,7 +19,7 @@
    - [Learning Outcome 8: Professional (IP)](#learning-outcome-8-professional-ip)
        -  [Feedback](#feedback)
        -  [Researches](#research)
-       - [Learning Outcome 1: Web Application (GP)](#learning-outcome-1-web-application-gp)
+   - [Learning Outcome 1: Web Application (GP)](#learning-outcome-1-web-application-gp)
        - [Front-end (ROS)](#front-end-ros)
        - [Back-end (ROS)](#back-end-ros)
    - [Learning Outcome 3: Agile Method](#learning-outcome-3-agile-method)
@@ -165,7 +165,7 @@ Clarification:
 
 ## Team Communication
 **what we use:
-We have an elobate discord server in which we put everything we need in.
+We have an elaborate discord server in which we put everything we need in.
 We have seperate textchannels for all documents, meetings, meetingreports, links, announcements, schedule and even a seperate channel per team.
 We also have 4 voice channels divided in a general chat roon, 2 chat rooms, 1 per team and a meeting room.
 
